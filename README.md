@@ -73,14 +73,15 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Nicolás Godoy Márquez
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
-
-R:
+R: RStudio es lindo y R es feo 
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+R: No me acuerdo
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
